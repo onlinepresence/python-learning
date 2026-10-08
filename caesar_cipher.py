@@ -32,7 +32,7 @@ while restart:
     print("\nWelcome to the CAESAR CIPHER program. We shall encrypt or decrypt a message for you")
     print("Select what you want to do:")
     print("1. I want to encrypt a text")
-    print("2. I want to decript a text")
+    print("2. I want to decrypt a text")
     print("3. Exit the program")
     encryption = int(input("Response: "))
 
